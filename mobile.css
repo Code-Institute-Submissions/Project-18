@@ -8,3 +8,27 @@
   font-family: aller-bold;
   src: url("fonts/aller-bold.ttf");
 }
+
+body{
+  font-family: aller-regular;
+}
+
+b{
+  font-family: aller-bold;
+}
+
+/* alert bar */
+/* background color */
+.alert-primary {
+  background-color:black;
+  text-align: center; 
+  /* font-family: input-mono; */
+  color: white;
+  margin:0%;
+}
+
+/* remove border */
+.alert{
+border-radius: 0rem;
+border:none; 
+}
