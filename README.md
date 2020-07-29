@@ -31,6 +31,8 @@ Lastly, there will be a footer which shows the user how they can contact us.
 
 The cart icon is still in progress. I wish to make it clickable such that they are able to show the items which the user have added into the cart. 
 
+More pages such that it can have a better user experience. 
+
 <b>Technologies Used</b>
 HTML, CSS, Boostrap. 
 
