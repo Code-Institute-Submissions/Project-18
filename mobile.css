@@ -158,4 +158,9 @@ border:none;
     text-align:center;
   }
 
+  /* removes border */
+  .card{
+    border:none;
+  }
+
 
