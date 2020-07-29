@@ -121,3 +121,14 @@ border:none;
     transition-duration: 0.4s;
   }
 
+  .lead{
+    font-size: 18px;
+  }
+  
+  /* product banner  */
+  .product-img{
+    padding-top:20%;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+
