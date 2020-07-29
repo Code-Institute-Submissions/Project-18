@@ -134,6 +134,7 @@ border:none;
 
   .jumbotron{
     background-color: transparent; 
+    padding-bottom:20%;
   }
 
   /* picture size */
