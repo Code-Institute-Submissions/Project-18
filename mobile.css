@@ -32,3 +32,59 @@ b{
 border-radius: 0rem;
 border:none; 
 }
+
+/* navbar */
+  /* change background color of nav bar */
+  .bg-color{  
+    background-color:black;
+  }
+  
+    /*brand name*/
+  .brand-name{
+    font-size:20px;
+    color: rgb(136, 206, 194);
+  }
+  
+    /* remove outline of hamburger */
+  button:focus {
+    outline: 0;
+  }
+  
+    /* change color of dropdown text */
+  .navbar-light .navbar-nav .active .nav-link{
+    color:white;
+  }
+  
+    /* change hamburger style */
+  .navbar-light .navbar-toggler-icon {
+    background-image: url(images/hamburger-icon.png);
+    height: 15px;
+    width: 18px;
+  }
+  
+    /* change dropdown text white */
+  .navbar-light .navbar-nav .nav-link{
+    color:white;
+  }
+  
+    /* change hover color to white */
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+  }
+  
+    /* search button color*/
+  .btn-outline-success {
+    color:white;
+    border-color:#889386;
+  }
+  
+    /* search button hover color */
+  .btn-outline-success:hover {
+    background-color:transparent;
+    border-color:white;
+  }
+  
+  .brand-name{
+    display: inline-block;
+    text-align: center;
+  }
