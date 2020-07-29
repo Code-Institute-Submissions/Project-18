@@ -136,4 +136,20 @@ border:none;
     background-color: transparent; 
   }
 
+  /* picture size */
+  .picture-one{
+    height:100%;
+    width:100%;
+}
+
+  .picture-two{
+    height:100%;
+    width:100%;
+}
+
+  .picture-three{
+    height:100%;
+    width:100%;
+} 
+
 
