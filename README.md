@@ -2,68 +2,63 @@
 
 <b>Your Project's Name</b>
 
-Alt Beats is a new brand of headphones which aims to target users who love to feel comfortable instead of using an in-ear earpiece. 
+Alt Beats is a new brand of headphones which aims to target users who love to feel comfortable instead of using an in-ear earpiece. Alt Beats provides high quality bluetooth headphones which meets the users need. 
 
 
 <b>UX</b>
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+This website is for customers who have a passion for high quality headphones. On the homepage, they are able to view the product images and also the price of each product. 
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+As a user, i am able to view the latest products and the models to show how the headphones will look like. 
 
 <b>Features</b>
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-<b>Existing Features</b>
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+At the top, there is an announcement bar which is responsive. Users will be able to close the announcement if they are not interested in it. 
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+There is a navigation bar which allows users to go to the product section when they click on the shop link. 
+
+By clicking on "SEE MORE" it will open a new tab which is the maintenance site created. 
+
+The buttons below are also linked to the maintenance page. 
+
+The next sections showcase the newest product of Alt Beats. Followed by a carousel which shows models in real life using it. 
+
+The products section is where the products which Alt Beats is selling. 
+
+Lastly, there will be a footer which shows the user how they can contact us. 
 
 <b>Features Left to Implement</b>
-Another feature idea
+
+The cart icon is still in progress. I wish to make it clickable such that they are able to show the items which the user have added into the cart. 
 
 <b>Technologies Used</b>
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+HTML, CSS, Boostrap. 
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
 <b>Testing</b>
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+The buttons were manually tested to ensure that it has been linked to a section in the page or opened a new tab. 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+By using bootstap, it is optimize for both desktop and mobile due to its responsiveness like the nav bar. 
 
 <b>Deployment</b>
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+Hosting platform used will be GitHub.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+By using VScode, we can run the code locally using live server to open up the webpage. 
 
 <b>Credits</b>
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+
+Codes:
+1. https://getbootstrap.com/docs/4.0/components/navbar/
+2. https://www.w3schools.com/howto/howto_css_hero_image.asp
+3. https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+4. https://getbootstrap.com/docs/4.0/components/card/
+
+Fonts: 
+1. https://www.fontsquirrel.com/
+
+Images: 
+1. pexels.com
+2. unsplash.com
+
 
