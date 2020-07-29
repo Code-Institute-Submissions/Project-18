@@ -140,16 +140,22 @@ border:none;
   .picture-one{
     height:100%;
     width:100%;
-}
+  }
 
   .picture-two{
     height:100%;
     width:100%;
-}
+  }
 
   .picture-three{
     height:100%;
     width:100%;
-} 
+  } 
+
+  /* our product text */
+  .our-product-text{
+    padding-top:5%;
+    text-align:center;
+  }
 
 
