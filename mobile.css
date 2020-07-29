@@ -88,3 +88,10 @@ border:none;
     display: inline-block;
     text-align: center;
   }
+
+    /* hero image  */
+  .hero-image{
+    height:100vh;
+    background-size: cover;
+    background-image: url("images/hero.jpg")
+  }
