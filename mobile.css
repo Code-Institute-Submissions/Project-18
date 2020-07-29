@@ -1,0 +1,10 @@
+/* fonts */
+@font-face{
+  font-family: aller-regular;
+  src: url("fonts/aller-regular.ttf");
+}
+
+@font-face{
+  font-family: aller-bold;
+  src: url("fonts/aller-bold.ttf");
+}
