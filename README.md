@@ -7,7 +7,7 @@ Alt Beats is a new brand of headphones which aims to target users who love to fe
 
 <b>UX</b>
 
-This website is for customers who have a passion for high quality headphones. On the homepage, they are able to view the product images and also the price of each product. 
+This website is for customers who have a passion for high quality headphones. On the homepage, they are able to view the product images and also the price of each product.
 
 As a user, i am able to view the latest products and the models to show how the headphones will look like. 
 
