@@ -1,9 +1,9 @@
 # Project-1
 
 <b>Your Project's Name</b>
-One or two paragraphs providing an overview of your project.
 
-Essentially, this part is your sales pitch.
+Alt Beats is a new brand of headphones which aims to target users who love to feel comfortable instead of using an in-ear earpiece. 
+
 
 <b>UX</b>
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
