@@ -127,14 +127,17 @@ border:none;
   
   /* product banner  */
   .product-img{
-    padding-top:20%;
+    padding-top: 10%;
     padding-left: 20%;
     padding-right: 20%;
   }
 
   .jumbotron{
     background-color: transparent; 
-    padding-bottom:20%;
+  }
+
+  .learn-more{
+    padding-bottom: 10%;;
   }
 
   /* picture size */
