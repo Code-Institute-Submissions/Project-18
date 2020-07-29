@@ -104,5 +104,20 @@ border:none;
     transform: translate(-50%, -50%);
     color: white;
     padding-left: 30%;
-}
+  }
+
+  /* hero button */
+  button{
+    font-size: 15px;
+    border:none;
+    color: white;
+    padding: 14px 30px;
+    background-color:#193D41;
+  }
+
+  button:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 0.4s;
+  }
 
