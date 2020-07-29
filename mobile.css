@@ -95,3 +95,14 @@ border:none;
     background-size: cover;
     background-image: url("images/hero.jpg")
   }
+
+    /* hero text */
+  .hero-text{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding-left: 30%;
+}
+
